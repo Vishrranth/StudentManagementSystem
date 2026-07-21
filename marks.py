@@ -1,1 +1,4 @@
-print("Marks Module")
+def marks():
+    print("Marks module")
+
+marks()
