@@ -1,0 +1,2 @@
+def registration():
+    print("registration")
