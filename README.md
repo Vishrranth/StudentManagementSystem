@@ -1,1 +1,1 @@
-# Student Management System
+This project is managed by Developer A
